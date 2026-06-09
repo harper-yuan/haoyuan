@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Hao Yuan:
+  name        : "Hao Yuan"
+  uri         : "https://harper-yuan.github.io/haoyuan"
+  email       : "yuan_hao@stu.xidian.edu.cn"
+  bio         : "M.E. candidate in Cyberspace Security at Xidian University, advised by Prof. Hui Zhu. Research focuses on applied cryptography, privacy-preserving computation, and homomorphic encryption."
+  avatar      : "profile.png"
+  googlescholar : "https://scholar.google.com/citations?user=NCBldVEAAAAJ"
+  github      : "harper-yuan"

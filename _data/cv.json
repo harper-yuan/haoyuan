@@ -1,152 +1,165 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Hao Yuan",
+    "email": "yuan_hao@stu.xidian.edu.cn",
+    "phone": "(+86) 13264863570",
+    "website": "https://harper-yuan.github.io/haoyuan",
+    "summary": "M.E. candidate in Cyberspace Security at Xidian University, advised by Prof. Hui Zhu. Research interests include applied cryptography, privacy-preserving computation, homomorphic encryption, trusted execution environment, and searchable encryption.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Xi'an",
+      "countryCode": "CN",
+      "region": "Shaanxi"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "Hao Yuan",
+        "url": "https://scholar.google.com/citations?user=NCBldVEAAAAJ"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "harper-yuan",
+        "url": "https://github.com/harper-yuan"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "Huawei Technologies Co., Ltd.",
+      "position": "Project Lead",
+      "website": "",
+      "startDate": "2024-04-01",
+      "endDate": "2025-04-01",
+      "summary": "Led the adaptation of the Kunpeng KAE encryption engine to the domestic open-source cryptographic library OpenHiTLS (Cybersecurity Association of China Innovation Funding Program, 60,000 RMB). Successfully merged code into the OpenHiTLS community repository. Awarded Second Prize for Outstanding Students by the Cybersecurity Association of China.",
+      "highlights": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Huawei Technologies Co., Ltd. (2012 Labs)",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-01",
+      "summary": "Developed OpenSSL provider code for the hardware acceleration engine of ShangMi (SM) cryptographic algorithms. Code successfully merged into the department's internal Gitee repository.",
+      "highlights": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "education": [
+    {
+      "institution": "Xidian University",
+      "area": "Cyberspace Security",
+      "studyType": "M.E.",
+      "startDate": "2024-09",
+      "endDate": "2027-06 (expected)",
+      "gpa": "3.9/4.0 (Rank: 5/138)",
+      "courses": ["Mathematical Foundation of Cyberspace Security", "Secure Data Computing", "Elementary Number Theory", "Game Theory", "Modern Cryptography"]
+    },
+    {
+      "institution": "Xidian University",
+      "area": "Cyberspace Security (Experimental Class)",
+      "studyType": "B.E.",
+      "startDate": "2020-09",
+      "endDate": "2024-06",
+      "gpa": "3.8/4.0 (Rank: 3/40)",
+      "courses": ["Computer and Program Design", "Advanced Mathematics", "Information and Content Security", "Discrete Mathematics", "Introduction to Cyberspace Security"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["C/C++", "Python", "Matlab", "LaTeX", "Java"]
+    },
+    {
+      "name": "Languages",
+      "keywords": ["Chinese", "English"]
+    },
+    {
+      "name": "Software",
+      "keywords": ["Office", "Endnote"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Applied Cryptography"
+    },
+    {
+      "name": "Privacy-Preserving Computation"
+    },
+    {
+      "name": "Homomorphic Encryption"
+    },
+    {
+      "name": "Trusted Execution Environment"
+    },
+    {
+      "name": "Searchable Encryption"
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Breaking Beyond One: Mirage Attacks for Highly Accurate Multi-Keyword Query Recovery against SE with Partial Similar Data",
+      "publisher": "IEEE Transactions on Information Forensics and Security (TIFS) — CCF-A",
+      "releaseDate": "",
+      "website": "",
+      "summary": "Hao Yuan, Hui Zhu, Songnian Zhang, Yandong Zheng, Mingqin Hou, Wei Xu."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Achieving Efficient BGV Scheme with Semi-honest TEE Assistance",
+      "publisher": "IEEE International Conference on Communications (ICC), 2025 — CCF-C",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Hao Yuan, Hui Zhu, Fengwei Wang, Songnian Zhang, Wei Xu, Hui Li."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Secure and Practical Time Series Analytics with Mixed Model",
+      "publisher": "IEEE Transactions on Knowledge and Data Engineering (TKDE) — CCF-A",
+      "releaseDate": "",
+      "website": "",
+      "summary": "Songnian Zhang, Hao Yuan (Student 1st Author), Hui Zhu, Jun Shao, Yandong Zheng, Fengwei Wang."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Kangaroo: A Private and Amortized Inference Framework over WAN for Large-Scale Decision Tree Evaluation",
+      "publisher": "Network and Distributed System Security Symposium (NDSS), 2025 — CCF-A",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Wei Xu, Hui Zhu, Yandong Zheng, Song Bian, Ning Sun, Hao Yuan, Dengguo Feng, Hui Li."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
+      "name": "HOTree: High-Throughput Oblivious Spatial Keyword Indexing via Parallelism",
+      "event": "Under Review — IEEE Transactions on Dependable and Secure Computing (TDSC) — CCF-A",
       "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "location": "",
+      "description": "Hao Yuan, Hui Zhu, Songnian Zhang, Yandong Zheng, Wei Xu, Fengwei Wang."
+    },
+    {
+      "name": "Secure and Practical MPC with GOD among Rational Parties",
+      "event": "Under Review — IEEE Transactions on Dependable and Secure Computing (TDSC) — CCF-A",
+      "date": "",
+      "location": "",
+      "description": "Yandong Zheng, Hao Yuan (Student 1st Author), Hui Zhu, Songnian Zhang, Fengwei Wang."
+    },
+    {
+      "name": "2logN < N+1: A Private Large-Scale Time-Series Database from ORAM",
+      "event": "Under Review — International Conference on Very Large Data Bases (VLDB) — CCF-A",
+      "date": "",
+      "location": "",
+      "description": "Hao Yuan, Hui Zhu, Songnian Zhang, Yandong Zheng."
     }
-  ]
+  ],
+  "teaching": [],
+  "portfolio": []
 }
